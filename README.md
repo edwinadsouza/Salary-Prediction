@@ -27,4 +27,4 @@ The purpose of this project is that it can assist businesses and individuals in 
 ## TO RUN THE APP 
 - streamlit run app.py
 
-in the terminal/command prompt 
+## VOILA!
