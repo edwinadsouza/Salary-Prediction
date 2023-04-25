@@ -23,3 +23,7 @@ The purpose of this project is that it can assist businesses and individuals in 
 
 ### Pickle:
 - Pickle is a Python package that allows you to serialise and deserialize Python objects to and from a byte stream. It enables the simple storing and retrieval of Python objects from disc, as well as their transmission across a network.
+
+## TO RUN THE APP 
+streamlit run app.py
+in the terminal/command prompt 
